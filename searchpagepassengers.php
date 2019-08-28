@@ -115,7 +115,7 @@
 
 <div class="col-md-7 col-sm-12 footer-bottom-menu">
 <ul class="list-unstyled">
-	<li></li>
+	<li><p>Flight Management System/<a href="index.php" style="color: #006699;">www.inFlynite.com</a></p></li>
 </ul>
 
 <p id="back-top"><a href="#top"><i class="fa fa-angle-up"></i></a></p>
