@@ -127,9 +127,9 @@
 <div class="container">
 <div class="row">
 <div class="col-sm-12">
-<h2>How to insert for Arrivals?</h2>
+<h2>How to delete for Arrivals?</h2>
 
-<p>Please fill up all the necessary fields shown above regarding the details of the flights arriving at Hazrat Shahjalal International Airport.</p>
+<p>Please confirm if this is the flight you want to delete</p>
 </div>
 </div>
 </div>
